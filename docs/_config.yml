@@ -1,0 +1,12 @@
+title: Liam's Lab
+description: 做各种实验的地方
+
+# 使用 just-the-docs 远程主题（可指定版本）
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+# 你的站点是项目页：https://turbulent-flow.github.io/liam-lab
+url: https://turbulent-flow.github.io
+baseurl: /liam-lab
